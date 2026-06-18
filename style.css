@@ -6,7 +6,7 @@
 
 .containner{
     background-color:#e5e5fd;
-    border:10px solid black;
+    border:10px solid rgba(0, 0, 0, 0.975);
 }
 .content{
     max-width: 900px;
